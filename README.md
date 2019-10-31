@@ -1,2 +1,2 @@
 # get_date_frm_days-tk
-Gets date from number of days entered.
+Gets date from number of days entered. Tkinter version.
